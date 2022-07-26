@@ -1,0 +1,16 @@
+h2 {
+  font-size: 32px;
+  color: bisque;
+  letter-spacing: 5px;
+  cursor: pointer;
+  transition: .5s;
+}
+
+h2:hover {
+  color: rgb(90, 9, 77);
+  text-shadow: 0 0 5px rgb(121, 65, 65),
+  0 0 25px rgb(0, 0, 0),
+  0 0 55px rgb(0, 0, 0),
+  0 0 100px rgb(0, 0, 0);
+
+}
