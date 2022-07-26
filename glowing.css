@@ -7,10 +7,10 @@ h2 {
 }
 
 h2:hover {
-  color: rgb(90, 9, 77);
-  text-shadow: 0 0 5px rgb(121, 65, 65),
-  0 0 25px rgb(0, 0, 0),
-  0 0 55px rgb(0, 0, 0),
-  0 0 100px rgb(0, 0, 0);
+  color: rgb(27, 150, 6);
+  text-shadow: 0 0 5px rgb(131, 24, 24),
+  0 0 25px rgb(192, 106, 106),
+  0 0 55px rgb(56, 5, 5),
+  0 0 100px rgb(178, 114, 114);
 
 }
